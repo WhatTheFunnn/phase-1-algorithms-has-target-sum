@@ -1,13 +1,18 @@
+//The code should take the value of 2 integers as a value of 1 target integers 
+
 function hasTargetSum(array, target) {
-  // Write your algorithm here
+    for(let i = o; i < array.length; i++){
+      array[i + i] = target
+    }
 }
 
 /* 
   Write the Big O time complexity of your function here
 */
 
-/* 
-  Add your pseudocode here
+/* write a code that grabs an array
+once we have the array, the code should iterate through the array
+as it iterates through the array it should add two numbers together to total 1 target integer value.
 */
 
 /*
